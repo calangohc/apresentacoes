@@ -1,0 +1,5 @@
+Gerador de Linhas
+-----------------
+Pattern: Teste1 até Teste99
+
+Teste1

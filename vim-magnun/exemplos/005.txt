@@ -1,0 +1,105 @@
+Gerar Inserts
+-------------
+INSERT INTO person (first_name, last_name, email, country, ip_address) VALUES (?, ?, ?, ?, ?)
+
+id;first_name;last_name;email;country;ip_address
+1;Margaret;King;mking0@boston.com;Indonesia;96.98.129.216
+2;Keith;Washington;kwashington1@google.de;Macedonia;100.53.43.94
+3;Jennifer;Rogers;jrogers2@statcounter.com;China;147.158.189.211
+4;Bruce;Grant;bgrant3@guardian.co.uk;Afghanistan;69.55.151.237
+5;Jane;Clark;jclark4@cbc.ca;Luxembourg;89.78.239.233
+6;Fred;Martinez;fmartinez5@biglobe.ne.jp;Philippines;172.82.63.58
+7;Gary;Hicks;ghicks6@yellowpages.com;Philippines;57.229.114.64
+8;Craig;Davis;cdavis7@google.com.au;Peru;130.141.227.155
+9;Larry;Richardson;lrichardson8@blogger.com;Indonesia;32.44.205.67
+10;Betty;Morrison;bmorrison9@fema.gov;Poland;164.56.232.179
+11;Daniel;Marshall;dmarshalla@360.cn;Indonesia;59.226.31.168
+12;Kevin;Romero;kromerob@hud.gov;Peru;10.200.197.235
+13;Susan;Ward;swardc@elegantthemes.com;United States;18.179.135.227
+14;Annie;Harper;aharperd@nyu.edu;Belarus;19.82.98.159
+15;Sara;Gordon;sgordone@storify.com;Philippines;228.203.150.130
+16;Virginia;Fields;vfieldsf@oaic.gov.au;China;147.22.19.102
+17;Clarence;Elliott;celliottg@wordpress.com;Ukraine;23.176.226.28
+18;Jimmy;Olson;jolsonh@wikia.com;Netherlands;179.254.44.132
+19;Antonio;Martinez;amartinezi@scribd.com;United States;211.252.93.117
+20;Christopher;Perry;cperryj@sina.com.cn;China;42.138.183.85
+21;Michelle;Gardner;mgardnerk@alexa.com;Indonesia;17.115.73.217
+22;Diane;Mendoza;dmendozal@globo.com;Philippines;14.254.217.176
+23;Ernest;Jordan;ejordanm@rediff.com;Ukraine;96.208.105.248
+24;Donna;Hayes;dhayesn@github.io;China;166.242.245.201
+25;Patrick;Myers;pmyerso@elegantthemes.com;Philippines;8.43.86.255
+26;Jerry;Franklin;jfranklinp@vk.com;China;24.254.2.135
+27;Jeremy;Price;jpriceq@telegraph.co.uk;Ukraine;90.199.17.29
+28;Timothy;Burns;tburnsr@sciencedirect.com;Croatia;139.36.187.18
+29;Theresa;Moore;tmoores@tiny.cc;Indonesia;113.75.231.164
+30;Bruce;Burton;bburtont@homestead.com;China;125.103.232.54
+31;Phillip;Watson;pwatsonu@issuu.com;China;50.229.199.146
+32;Joseph;Black;jblackv@mapy.cz;Brazil;215.238.23.44
+33;Sandra;Fernandez;sfernandezw@php.net;Vietnam;251.8.203.73
+34;Brian;Fowler;bfowlerx@amazon.co.uk;Poland;163.26.97.196
+35;Brenda;Fox;bfoxy@geocities.com;Japan;77.245.83.106
+36;Roy;Robinson;rrobinsonz@posterous.com;Czech Republic;216.32.110.105
+37;Gary;Williams;gwilliams10@amazon.com;Russia;112.44.172.127
+38;Brandon;Hamilton;bhamilton11@google.nl;China;184.226.223.50
+39;Steven;Mason;smason12@accuweather.com;Belarus;157.81.86.192
+40;Anne;Flores;aflores13@marriott.com;China;187.236.101.28
+41;Earl;Schmidt;eschmidt14@ning.com;Indonesia;23.172.43.146
+42;Fred;Armstrong;farmstrong15@technorati.com;Philippines;136.196.66.78
+43;Christine;Brown;cbrown16@howstuffworks.com;United States;204.148.231.170
+44;Robin;Henderson;rhenderson17@digg.com;Italy;115.125.106.183
+45;Kathy;Fields;kfields18@house.gov;Russia;47.48.45.4
+46;Julie;Garza;jgarza19@wufoo.com;Poland;96.165.209.26
+47;Carol;Murray;cmurray1a@stumbleupon.com;China;245.142.80.216
+48;Aaron;Carr;acarr1b@123-reg.co.uk;Guatemala;64.238.124.0
+49;Dennis;Banks;dbanks1c@mediafire.com;Republic of the Congo;107.110.106.235
+50;Rachel;Kelly;rkelly1d@nydailynews.com;China;64.232.24.77
+51;Evelyn;Simpson;esimpson1e@lulu.com;China;255.179.49.174
+52;Bobby;Torres;btorres1f@163.com;China;228.183.41.126
+53;Jose;Carpenter;jcarpenter1g@creativecommons.org;Philippines;161.91.163.151
+54;Jesse;Ferguson;jferguson1h@mysql.com;China;157.73.152.65
+55;Christine;Reyes;creyes1i@bing.com;Netherlands;146.187.93.41
+56;Daniel;Fisher;dfisher1j@surveymonkey.com;China;205.19.63.150
+57;Gerald;Sanchez;gsanchez1k@sciencedaily.com;China;33.54.28.161
+58;Marie;Morris;mmorris1l@addtoany.com;Serbia;151.213.244.161
+59;Jose;Willis;jwillis1m@wired.com;Egypt;221.67.225.156
+60;Ralph;Welch;rwelch1n@phoca.cz;Austria;237.49.75.177
+61;Jimmy;Sanders;jsanders1o@deviantart.com;Brazil;149.155.228.142
+62;Theresa;Stanley;tstanley1p@bing.com;Mexico;8.247.30.78
+63;Kathy;Butler;kbutler1q@census.gov;China;229.48.247.251
+64;Charles;Hart;chart1r@fotki.com;Czech Republic;64.43.108.187
+65;Nicholas;Wood;nwood1s@usatoday.com;Russia;6.77.77.137
+66;Ralph;Romero;rromero1t@miibeian.gov.cn;Indonesia;63.241.228.209
+67;Jacqueline;Vasquez;jvasquez1u@ox.ac.uk;United States;94.230.103.120
+68;Earl;Kim;ekim1v@ocn.ne.jp;Greece;207.211.201.104
+69;Arthur;Cruz;acruz1w@list-manage.com;Canada;88.34.223.46
+70;Sharon;Stanley;sstanley1x@salon.com;New Caledonia;56.134.183.67
+71;Stephen;Carpenter;scarpenter1y@craigslist.org;Indonesia;161.126.147.81
+72;Angela;Hunter;ahunter1z@cbsnews.com;Indonesia;49.252.32.237
+73;Tammy;Jackson;tjackson20@yelp.com;Micronesia;22.22.95.248
+74;Philip;Turner;pturner21@microsoft.com;China;48.21.35.31
+75;Amy;Frazier;afrazier22@taobao.com;Poland;210.213.189.69
+76;Kelly;Cunningham;kcunningham23@businessweek.com;Brazil;107.34.160.237
+77;Phyllis;Mendoza;pmendoza24@tumblr.com;Nigeria;131.125.96.80
+78;Ashley;Cook;acook25@geocities.jp;China;59.68.142.96
+79;Joyce;Foster;jfoster26@dot.gov;Bangladesh;44.80.186.87
+80;Timothy;King;tking27@scientificamerican.com;Mexico;201.164.164.19
+81;Adam;Johnston;ajohnston28@51.la;Bosnia and Herzegovina;253.124.220.105
+82;Janet;Kelly;jkelly29@creativecommons.org;Chad;210.196.39.2
+83;Jesse;Richardson;jrichardson2a@github.com;Philippines;201.53.67.151
+84;Richard;Cole;rcole2b@feedburner.com;France;133.75.130.228
+85;Thomas;Ward;tward2c@arstechnica.com;Madagascar;17.0.86.213
+86;Richard;Dunn;rdunn2d@dyndns.org;Kenya;247.202.125.251
+87;Rose;Baker;rbaker2e@skyrock.com;China;149.145.232.43
+88;Steve;Welch;swelch2f@seattletimes.com;Indonesia;41.219.162.60
+89;Christine;Wright;cwright2g@army.mil;Indonesia;217.230.203.215
+90;Douglas;Miller;dmiller2h@twitpic.com;China;12.181.248.7
+91;Daniel;Hall;dhall2i@booking.com;Russia;45.31.61.35
+92;Timothy;Cooper;tcooper2j@fda.gov;Portugal;66.195.13.137
+93;Alice;Armstrong;aarmstrong2k@nifty.com;China;84.122.92.220
+94;Ashley;Foster;afoster2l@timesonline.co.uk;United States;29.228.6.28
+95;Matthew;Mason;mmason2m@netvibes.com;Brazil;123.75.103.66
+96;Ruth;Fox;rfox2n@hexun.com;Russia;98.76.240.100
+97;Kelly;Walker;kwalker2o@flavors.me;Brazil;22.241.47.239
+98;Kevin;Powell;kpowell2p@nationalgeographic.com;Bangladesh;48.240.111.145
+99;Steve;Owens;sowens2q@macromedia.com;Afghanistan;152.11.205.30
+100;Dorothy;Johnston;djohnston2r@blogspot.com;China;65.151.203.72

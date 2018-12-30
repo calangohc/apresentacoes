@@ -1,0 +1,4 @@
+http://www.vivaolinux.com.br/artigo/Corretor-Ortografico-no-Vim-Guia-definitivo/
+
+http://extensions.libreoffice.org/extension-center/vero-verificador-ortografico-e-hifenizador-em-portugues-do-brasil
+

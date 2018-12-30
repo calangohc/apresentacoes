@@ -1,0 +1,13 @@
+Origem
+======
+{
+	"nome": "Fulano",
+	"dt_nascimento": "01/01/1980",
+	"linguagens": ["python", "c", "c++"]
+}
+
+Destino
+=======
+nome = "Fulano",
+dt_nascimento = "01/01/1980",
+linguagens = ["python", "c", "c++"]

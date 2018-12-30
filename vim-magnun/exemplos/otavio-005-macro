@@ -1,0 +1,42 @@
+Macro
+
+^[ = esc
+
+qa  # começar a macro
+df;  # deletar até o ponto-e-vírgula
+i
+'   # digitado
+esc
+ww  # próxima palavra 2x
+cw  # troca palavra (change word)
+','  # digitado
+esc
+f;  # encontra próximo ";"
+cw  # troca palavra (change word)
+','  # digitado
+esc
+f;  # encontra próximo ";"
+cw  # troca palavra (change word)
+','  # digitado
+esc
+f;  # encontra próximo ";"
+cw  # troca palavra (change word)
+','  # digitado
+esc
+A   # adiciona ao final da linha
+')  # digitado
+esc
+I  # insere no começo da linha
+(  # digitado
+esc
+
+
+"a   df;i'^[wwcw','^[f;cw','^[f;cw','^[f;cw','^[A')^[I(^[
+
+:normal @a
+(vira :'<, '>:normal @a)
+
+Seleção em bloco: Ctrl+V (v-block)
+Modo Insert a partir do V-block: I (shift i)
+Completar com a linha de cima: ctrl+y
+Esc: aplica para todos

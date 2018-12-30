@@ -1,0 +1,10 @@
+Arquivo de exemplo 001
+======================
+
+Arquivo de exemplo para demonstrar a movimentação entre modos
+
+* Comando Inserir (i) e Inserir no início (I)
+* Comando Abrir Nova Linha Abaixo (o) e Abrir Nova Linha Acima (O)
+* Comando Adicionar (a) e Adicionar no final (A)
+* Comando Substituir (s) e Substituir Toda Linha (S)
+* Comando Mudar Linha Até o Final (C)
