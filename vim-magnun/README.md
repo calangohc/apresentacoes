@@ -1,4 +1,6 @@
-# Vim
+# Vim, mais que um editor - com Magnun Leno
+
+Vejam o vídeo: https://www.youtube.com/watch?v=UUzW46SeLhg
 
 Caso alguém esteja curioso, o software utilizado para apresentar é o [mdp](https://github.com/visit1985/mdp). Não se assustem, compilar ele é super simples. Junto com os slides estão também todas as imagens, exemplos e códigos utilizados.
 
